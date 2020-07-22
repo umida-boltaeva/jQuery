@@ -70,7 +70,7 @@ function animatePress(currentColour){
 function startOver(){
     level = 0;
     gamePattern = [];
-    srarted = false;
+    started = false;
 };
 
 
